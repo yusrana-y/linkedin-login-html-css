@@ -1,0 +1,70 @@
+#linkedin-logo{
+    width: 130px;
+    margin-left:85px;
+    margin-top: -18px;
+}
+
+#sign-in{
+    background-color: white;
+    color:rgb(10,102,194);
+    margin-left: 20px;
+    width: 90px;
+    padding: 10px;
+}
+
+#navbarNav{
+    margin-left: 350px;
+    margin-top: -5px;
+    
+}
+
+.nav-item a{
+    color:rgb(102,102,102);
+    font-size: 13px;
+}
+
+.gta{
+    border-left: 1px solid rgb(235,235,235) ;
+    border-right: 1px solid rgb(235,235,235) ;
+}
+
+.nav-item a:hover{
+    color: black;
+}
+#navicon{
+    margin-left: 35%;
+}
+
+#mp-text{
+    font-size: 56px;
+    font-weight: 200;
+    font-family: "Roboto", sans-serif;
+    line-height: 67px;
+    color: rgb(178,64,32);
+    margin-bottom: 25px;
+}
+
+.login-input{
+    width: 100%;
+    height: 50px;
+    margin-bottom:25px;
+}
+#fp-btn{
+    width: 100%;
+    background-color: rgb(10,102,194);
+    color: white;
+    margin-top: 20px;
+}
+
+#fp{
+    text-decoration: none;
+}
+#mp-img{
+    width: 600px;
+    align:right;
+
+}
+
+#signin-container{
+    width: 65%;
+}
